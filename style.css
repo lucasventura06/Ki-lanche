@@ -48,8 +48,9 @@ header {
     padding-left: 10px;
 }
 
-nav {
-    display: none;
+nav.ativo a {
+    text-decoration: none;
+    color: black;
 }
 
 nav.ativo {
